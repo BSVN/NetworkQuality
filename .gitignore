@@ -1,11 +1,10 @@
-﻿################################################################################
-# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
-################################################################################
-
-/BSN.Resa.NetworkQuality/.vs/BSN.Resa.NetworkQuality/v15/Server/sqlite3/db.lock
-/BSN.Resa.NetworkQuality/packages
-
-bin/
-obj/
-Debug/
-Release/
+*.iml
+.gradle
+/local.properties
+/.idea/libraries
+/.idea/modules.xml
+/.idea/workspace.xml
+.DS_Store
+/build
+/captures
+.externalNativeBuild

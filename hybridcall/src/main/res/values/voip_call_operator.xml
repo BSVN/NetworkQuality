@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--check which of these should remain hard coded and which should be get by developers-->
+    <integer name="voip_call_quality_test_ping_count">30</integer>
+
+    <!--in bytes-->
+    <integer name="voip_call_quality_test_ping_packet_size">140</integer>
+
+    <!--in seconds-->
+    <integer name="voip_call_quality_test_ping_timeout">10</integer>
+
+    <!--in kbps-->
+    <integer name="voip_call_quality_test_min_link_speed">200</integer>
+
+    <!--in seconds-->
+    <integer name="voip_call_quality_test_ping_min_wait">5</integer>
+
+    <!--https://www.voip-info.org/wiki/view/QoS-->
+
+    <!--in 1000-->
+    <integer name="voip_call_quality_test_perfect_loss_threshold">3</integer>
+
+    <integer name="voip_call_quality_test_mediocre_loss_threshold">1</integer>
+
+    <!--in microseconds-->
+    <integer name="voip_call_quality_test_perfect_latency_threshold">45000</integer>
+
+    <integer name="voip_call_quality_test_mediocre_latency_threshold">65000</integer>
+
+    <!--in microseconds-->
+    <integer name="voip_call_quality_test_perfect_jitter_threshold">500</integer>
+
+    <integer name="voip_call_quality_test_mediocre_jitter_threshold">1000</integer>
+
+    <!--in seconds-->
+    <integer name="voip_call_internet_provider_update_min_wait">30</integer>
+</resources>

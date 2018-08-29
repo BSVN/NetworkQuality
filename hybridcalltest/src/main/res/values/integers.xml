@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="logging_max_batch_size">10</integer>
+
+    <integer name="internet_call_percent">70</integer>
+</resources>

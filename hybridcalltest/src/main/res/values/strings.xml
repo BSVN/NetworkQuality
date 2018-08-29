@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">HybridCallQualityTest</string>
+
+    <string name="rate">Rate</string>
+    <string name="skip">Skip</string>
+    <string name="register_error">Sip Register Error!</string>
+</resources>

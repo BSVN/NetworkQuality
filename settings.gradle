@@ -1,0 +1,1 @@
+include ':hybridcall', ':hybridcalltest', 'liblinphone-sdk'

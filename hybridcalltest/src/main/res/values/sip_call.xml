@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="sip_profile_username">3007</string>
+    <string name="sip_profile_password">hajibetoche!</string>
+    <string name="sip_server_url">resaa.net</string>
+    <integer name="sip_server_port">10023</integer>
+    <string name="sip_call_protocol">udp</string>
+    <integer name="sip_profile_expires_in">300</integer>
+    <integer name="sip_profile_retry_in">10</integer>
+</resources>
